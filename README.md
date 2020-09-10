@@ -17,10 +17,10 @@ pip install PyPDF2
 
 ## Usage
 
-Open your cmd and navigate to the folder where *pdf_splitter.py* is. Now simply type:
+Open your cmd and navigate to the folder where *pdfsplitter.py* is. Now simply type:
 
 ```bash
-python pdf_splitter.py
+python pdfsplitter.py
 ```
 
 The GUI will open up and you can start splitting your files.
