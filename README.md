@@ -2,7 +2,7 @@
 
 With this compact tool you can split your pdf files.
 
-![PDF Splitter](screenshot.jpg?raw=true)
+![PDF Splitter](GUI.jpg?raw=true)
 
 It is written in **Python 3** and uses Python's **tkinter** for the GUI realization. 
 
